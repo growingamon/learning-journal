@@ -1,7 +1,7 @@
 # learning-journal
 
-log of learning to:
+journey to:
 
-- think clearly
-- be technically matured
-  - build stuff
+- thinking clearly
+- technical maturity
+  - building stuff
